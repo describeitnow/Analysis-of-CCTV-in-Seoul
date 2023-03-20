@@ -1,6 +1,6 @@
 서울시 구별 방범용 CCTV 운영 현황 분석.
 
-언어 : python.
+언어 : jupyter notebook.
 
 데이터 출처.
 방범용 CCTV 데이터 사이트 주소 : 
